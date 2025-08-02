@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1747930398 source:c:\users\user\desktop\dİyetİsyen randevu sİstemİ\diyetisyen randevu sistemi\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<vector>
+	<ctime>
+	<sstream>
+	<algorithm>
+
